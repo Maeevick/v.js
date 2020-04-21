@@ -1,3 +1,3 @@
 # v.js
 
-### TODO : simple virtual DOM lib
+### TODO : a simple virtual DOM lib
